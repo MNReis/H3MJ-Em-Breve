@@ -1,0 +1,37 @@
+
+
+
+body {
+  background-color: navy;
+}
+
+.texto1 {
+  color: gold;
+  position: relative;
+  top: 420px;
+  left: 750px;
+  text-align: center;
+}
+
+.logo {
+  font-size: 150px;
+    position: fixed;
+    color: white;
+  top: 450px;
+  left: 50%;
+  height: 300px;
+  width: 300px;
+}
+
+.slogan {
+position: fixed;
+top: 600px;
+left: 755px;
+color: gray;
+font-size: 20px;
+}
+
+.saibamais  {
+  top: 600px;
+  position: relative
+}
