@@ -1,37 +1,17 @@
-
-
-
-body {
-  background-color: navy;
+body{
+  background-color: rgb(53, 53, 235);
 }
 
-.texto1 {
-  color: gold;
-  position: relative;
-  top: 420px;
-  left: 750px;
+.intro{
+  color: azure;
+  font-size: 30px;
   text-align: center;
+  margin-top: 300px;
 }
 
-.logo {
-  font-size: 150px;
-    position: fixed;
-    color: white;
-  top: 450px;
-  left: 50%;
-  height: 300px;
-  width: 300px;
-}
-
-.slogan {
-position: fixed;
-top: 600px;
-left: 755px;
-color: gray;
-font-size: 20px;
-}
-
-.saibamais  {
-  top: 600px;
-  position: relative
+.name{
+  color: antiquewhite;
+  font-size: 90px;
+  text-align: center;
+  margin-top: 20px;
 }
